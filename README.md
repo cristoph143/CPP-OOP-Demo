@@ -15,8 +15,9 @@ This project demonstrates basic Object-Oriented Programming (OOP) principles in 
 
 - Navigate to your project directory.
 - Compile the project. This process will vary depending on your setup. A common command-line compilation might look like this if you're not using a build system:
+```
 g++ -std=c++17 main.cpp menu.cpp Head.cpp Body.cpp Footer.cpp -o OOPDemo
-
+```
 - If your project is set up with CMake, you would typically run:
 ```
 cmake .
